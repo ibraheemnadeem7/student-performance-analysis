@@ -36,5 +36,4 @@ plots, and post-hoc testing to evaluate both main and interaction effects.
 ```text
 scripts/   -> R scripts for each analysis stage  
 data/      -> Raw dataset  
-outputs/   -> Generated figures and tables  
 docs/      -> Full project report (PDF)
